@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <div className="container">
         <h1>
-          efulky.ma
+          anwal.ma
           <br />
           Coming Soon
         </h1>
