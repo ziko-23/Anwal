@@ -12,7 +12,7 @@ function App() {
         <h1>
           anwal.ma
           <br />
-          Coming Soon
+          قريبا
         </h1>
         <Timer />
         {/* <Optin /> */}
